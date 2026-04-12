@@ -8,7 +8,7 @@ public class Assignment3_Q1_Find2ndSmallestElementInAnArray {
 //Traverse and find smallest
 //Traverse again to find second smallest
 //Handle case when all elements are same
-		int arr[] = {4,2,7,1,2,9};
+		int arr[] = {10,9,7,1,6,7,9,3,2,1};
 		
 		int smallest = arr[0];//assuming element 1 as the smallest and comparing other elements with this element
 		int secondsmallest;
